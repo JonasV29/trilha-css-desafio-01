@@ -25,9 +25,9 @@
     background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(62, 45, 136, 0.2), rgba(0, 0, 0, 0.6)), url('../images/banner.png');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 330px;
+    height: 600px;
     padding-top: 45px;
-    border-bottom:1px solid #33A8DB
+    border-bottom:1px solid #3e2d88;
 
 }
 
@@ -69,7 +69,7 @@ body {
 
 h2 {
     font-size: 2rem;
-    color: #3e2d88;
+    color: #33A8DB;
     font-weight: bold;
     letter-spacing: 4px;
     text-transform: uppercase;
@@ -112,7 +112,7 @@ section {
     height: 560px;
     background-size: cover;
     background-image: url("../images/woman-code.jpg");
-    background-attachment: fixed;
+    background-attachment: fixed;  
     border-top: 1px solid #3e2d88;
     border-bottom: 1px solid #3e2d88;
     padding: 200px;
